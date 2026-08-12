@@ -363,6 +363,6 @@ Licensed under the **MIT License**.
 
 ## ⭐ If you like this project, don't forget to star the repository!
 
-Made with ❤️ by **Your Name**
+Made with ❤️ by **Your Punyaslok**
 
 </div>
